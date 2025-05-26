@@ -35,6 +35,66 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Glarus Sud",
+      "country": "Switzerland",
+      "emoji": "🇨🇭",
+      "date": "2025-05-26T16:25:49.186Z",
+      "notes": "",
+      "position": {
+        "lat": "46.98025235521883",
+        "lng": "9.074707031250002"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Moscow",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2025-05-26T16:26:13.428Z",
+      "notes": "",
+      "position": {
+        "lat": "55.70235509327093",
+        "lng": "37.79296875000001"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Minsk",
+      "country": "Belarus",
+      "emoji": "🇧🇾",
+      "date": "2025-05-26T16:28:22.517Z",
+      "notes": "",
+      "position": {
+        "lat": "53.904338156274704",
+        "lng": "27.641601562500004"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Tulchyn",
+      "country": "Ukraine",
+      "emoji": "🇺🇦",
+      "date": "2025-05-26T16:32:24.862Z",
+      "notes": "",
+      "position": {
+        "lat": "48.719961222646276",
+        "lng": "28.652343750000004"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Parau",
+      "country": "Romania",
+      "emoji": "🇷🇴",
+      "date": "2025-05-26T16:33:55.071Z",
+      "notes": "",
+      "position": {
+        "lat": "45.84410779560204",
+        "lng": "25.290527343750004"
+      },
+      "id": 98443202
     }
   ]
 }
