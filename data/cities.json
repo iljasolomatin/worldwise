@@ -95,6 +95,30 @@
         "lng": "-2.1313476562500004"
       },
       "id": 98443202
+    },
+    {
+      "cityName": "Veshkayma",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2025-06-17T11:23:19.562Z",
+      "notes": "",
+      "position": {
+        "lat": "54.00772293241128",
+        "lng": "47.13101316000022"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Pomorie",
+      "country": "Bulgaria",
+      "emoji": "🇧🇬",
+      "date": "2025-06-17T11:39:42.347Z",
+      "notes": "",
+      "position": {
+        "lat": "42.56163119192969",
+        "lng": "27.603675127029422"
+      },
+      "id": 98443204
     }
   ]
 }
